@@ -1,0 +1,7 @@
+C:\Users\Bryce\Source\Repos\ou-mis\homework-2-BryceDowhower\Homework 2\SalesReceipt\obj\Debug\SalesReceipt.csprojAssemblyReference.cache
+C:\Users\Bryce\Source\Repos\ou-mis\homework-2-BryceDowhower\Homework 2\SalesReceipt\obj\Debug\SalesReceipt.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\Source\Repos\ou-mis\homework-2-BryceDowhower\Homework 2\SalesReceipt\bin\Debug\SalesReceipt.exe.config
+C:\Users\Bryce\Source\Repos\ou-mis\homework-2-BryceDowhower\Homework 2\SalesReceipt\bin\Debug\SalesReceipt.exe
+C:\Users\Bryce\Source\Repos\ou-mis\homework-2-BryceDowhower\Homework 2\SalesReceipt\bin\Debug\SalesReceipt.pdb
+C:\Users\Bryce\Source\Repos\ou-mis\homework-2-BryceDowhower\Homework 2\SalesReceipt\obj\Debug\SalesReceipt.exe
+C:\Users\Bryce\Source\Repos\ou-mis\homework-2-BryceDowhower\Homework 2\SalesReceipt\obj\Debug\SalesReceipt.pdb

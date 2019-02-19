@@ -1,0 +1,7 @@
+C:\Users\Bryce\source\repos\ou-mis\homework-2-BryceDowhower\Homework 2\DirectoriesAndFiles\bin\Debug\DirectoriesAndFiles.exe.config
+C:\Users\Bryce\source\repos\ou-mis\homework-2-BryceDowhower\Homework 2\DirectoriesAndFiles\bin\Debug\DirectoriesAndFiles.exe
+C:\Users\Bryce\source\repos\ou-mis\homework-2-BryceDowhower\Homework 2\DirectoriesAndFiles\bin\Debug\DirectoriesAndFiles.pdb
+C:\Users\Bryce\source\repos\ou-mis\homework-2-BryceDowhower\Homework 2\DirectoriesAndFiles\obj\Debug\DirectoriesAndFiles.csprojAssemblyReference.cache
+C:\Users\Bryce\source\repos\ou-mis\homework-2-BryceDowhower\Homework 2\DirectoriesAndFiles\obj\Debug\DirectoriesAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\source\repos\ou-mis\homework-2-BryceDowhower\Homework 2\DirectoriesAndFiles\obj\Debug\DirectoriesAndFiles.exe
+C:\Users\Bryce\source\repos\ou-mis\homework-2-BryceDowhower\Homework 2\DirectoriesAndFiles\obj\Debug\DirectoriesAndFiles.pdb
